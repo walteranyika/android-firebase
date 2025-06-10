@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127015113742",
+    "project_id": "upload-to-cloud-5b1df",
+    "storage_bucket": "upload-to-cloud-5b1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127015113742:android:975249dbbe89501e26d85f",
+        "android_client_info": {
+          "package_name": "com.walter.fireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjJfz84A5bi9DAeBBywVTRaHs_FASD2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
