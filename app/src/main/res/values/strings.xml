@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FireApp</string>
     <string name="title_activity_users">UsersActivity</string>
+    <string name="title_activity_intents">IntentsActivity</string>
 </resources>
